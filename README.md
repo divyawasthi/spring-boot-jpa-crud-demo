@@ -1,0 +1,1 @@
+This repository contains a simple Spring Boot application that demonstrates basic CRUD (Create, Read, Update, Delete) functionality using MySQL database. The application follows DAO (Data Access Object) design pattern and utilizes JPA (Java Persistence API) for database operations.
